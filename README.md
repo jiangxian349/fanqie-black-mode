@@ -3,6 +3,8 @@
 [![Release](https://img.shields.io/github/v/release/jiangxian349/fanqie-black-mode?style=flat-square)](https://github.com/jiangxian349/fanqie-black-mode/releases)
 [![License](https://img.shields.io/github/license/jiangxian349/fanqie-black-mode?style=flat-square)](LICENSE)
 ![Platform](https://img.shields.io/badge/platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)
+[![powered by dsh](https://img.shields.io/badge/powered_by-dsh-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness)
 ![Framework](https://img.shields.io/badge/framework-LSPosed-4D6BFE?style=flat-square)
 
 将番茄小说夜间阅读背景由 `#0E0E0E` 替换为 `#000000`，使 OLED 面板像素真正熄灭；并以 LSPosed 运行时模块处理该渠道包的"当前版本不安全"启动拦截。已在小米17（HyperOS 4 / Android 17）验证运行正常、夜间背景为纯黑，全程保数据安装。

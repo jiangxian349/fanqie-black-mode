@@ -16,3 +16,4 @@ __pycache__/
 # scratch screenshots
 *.png
 !纯黑对比测试图.png
+*.idsig

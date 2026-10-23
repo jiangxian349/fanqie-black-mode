@@ -1,5 +1,10 @@
 # 番茄小说 夜间纯黑显示修改（com.dragon.read.oversea.gp）
 
+[![Release](https://img.shields.io/github/v/release/jiangxian349/fanqie-black-mode?style=flat-square)](https://github.com/jiangxian349/fanqie-black-mode/releases)
+[![License](https://img.shields.io/github/license/jiangxian349/fanqie-black-mode?style=flat-square)](LICENSE)
+![Platform](https://img.shields.io/badge/platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Framework](https://img.shields.io/badge/framework-LSPosed-4D6BFE?style=flat-square)
+
 将番茄小说夜间阅读背景由 `#0E0E0E` 替换为 `#000000`，使 OLED 面板像素真正熄灭；并以 LSPosed 运行时模块处理该渠道包的"当前版本不安全"启动拦截。已在小米17（HyperOS 4 / Android 17）验证运行正常、夜间背景为纯黑，全程保数据安装。
 
 ![纯黑对比测试图](纯黑对比测试图.png)
@@ -98,3 +103,10 @@ apksigner sign --ks your.keystore --out nogate_module.apk nogate_unsigned.apk
 - 本项目仅用于个人技术研究与学习，与字节跳动、番茄小说及其关联方**无任何官方关联**，亦不代表其立场。
 - 仓库**不包含**签名密钥（`*.jks`）与任何原始 APK；请使用你自己生成的密钥、你自己设备提取的原包。
 - 本项目采用 [MIT 许可证](LICENSE) 开源发布，可自由使用、修改与分发。
+
+## 贡献者与署名
+
+- [@jiangxian349](https://github.com/jiangxian349) —— 项目发起、逆向分析与真机验证
+- claude（Claude Code）—— LSPosed 模块实现与仓库发布
+
+[![](https://img.shields.io/badge/powered_by-dsh-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness)

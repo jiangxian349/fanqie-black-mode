@@ -1,0 +1,597 @@
+[
+ {
+  "name": "add_widget_dialog_title",
+  "restype": "color",
+  "val": "#222222",
+  "resid": "0x7f06006c",
+  "fileOff": 205191568
+ },
+ {
+  "name": "aos_video_bg",
+  "restype": "color",
+  "val": "#222222",
+  "resid": "0x7f06010a",
+  "fileOff": 205194096
+ },
+ {
+  "name": "aweme_network_error_title_color",
+  "restype": "color",
+  "val": "#222222",
+  "resid": "0x7f06012c",
+  "fileOff": 205194640
+ },
+ {
+  "name": "back_to_aweme_bg_dark",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f060130",
+  "fileOff": 205194704
+ },
+ {
+  "name": "bdp_ssxinheihui1",
+  "restype": "color",
+  "val": "#222222",
+  "resid": "0x7f060149",
+  "fileOff": 205195104
+ },
+ {
+  "name": "cj_pay_color_black_34",
+  "restype": "color",
+  "val": "#222222",
+  "resid": "0x7f060200",
+  "fileOff": 205198032
+ },
+ {
+  "name": "color_0E0E0E",
+  "restype": "color",
+  "val": "#0e0e0e",
+  "resid": "0x7f06032d",
+  "fileOff": 205202848
+ },
+ {
+  "name": "color_1C1C1C",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f060374",
+  "fileOff": 205203984
+ },
+ {
+  "name": "color_222222",
+  "restype": "color",
+  "val": "#222222",
+  "resid": "0x7f06038e",
+  "fileOff": 205204400
+ },
+ {
+  "name": "color_262626",
+  "restype": "color",
+  "val": "#262626",
+  "resid": "0x7f06039a",
+  "fileOff": 205204592
+ },
+ {
+  "name": "color_B7B7B7",
+  "restype": "color",
+  "val": "#b7b7b7",
+  "resid": "0x7f060516",
+  "fileOff": 205210672
+ },
+ {
+  "name": "color_FF0E0E0E",
+  "restype": "color",
+  "val": "#0e0e0e",
+  "resid": "0x7f060681",
+  "fileOff": 205216480
+ },
+ {
+  "name": "color_FF1C1C1C",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f060685",
+  "fileOff": 205216544
+ },
+ {
+  "name": "color_background_dark",
+  "restype": "color",
+  "val": "#0e0e0e",
+  "resid": "0x7f060761",
+  "fileOff": 205220064
+ },
+ {
+  "name": "color_bg_card_ff_black",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f060764",
+  "fileOff": 205220112
+ },
+ {
+  "name": "color_bg_dialog_ff_black_v2",
+  "restype": "color",
+  "val": "#0e0e0e",
+  "resid": "0x7f06076a",
+  "fileOff": 205220208
+ },
+ {
+  "name": "color_bg_dialog_ff_black_v3",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f06076b",
+  "fileOff": 205220224
+ },
+ {
+  "name": "color_bg_f6_black",
+  "restype": "color",
+  "val": "#0e0e0e",
+  "resid": "0x7f060771",
+  "fileOff": 205220320
+ },
+ {
+  "name": "color_bg_fa_black",
+  "restype": "color",
+  "val": "#222222",
+  "resid": "0x7f060774",
+  "fileOff": 205220368
+ },
+ {
+  "name": "color_bg_fa_black_v2",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f060775",
+  "fileOff": 205220384
+ },
+ {
+  "name": "color_bg_ff_black",
+  "restype": "color",
+  "val": "#0e0e0e",
+  "resid": "0x7f060778",
+  "fileOff": 205220432
+ },
+ {
+  "name": "color_clear_card_black",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f0607ab",
+  "fileOff": 205221248
+ },
+ {
+  "name": "color_global_bg_black",
+  "restype": "color",
+  "val": "#0e0e0e",
+  "resid": "0x7f0607c7",
+  "fileOff": 205221696
+ },
+ {
+  "name": "color_global_card_black",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f0607cc",
+  "fileOff": 205221776
+ },
+ {
+  "name": "color_global_text_black",
+  "restype": "color",
+  "val": "#b7b7b7",
+  "resid": "0x7f0607fe",
+  "fileOff": 205222576
+ },
+ {
+  "name": "comment_publish_background_light_black",
+  "restype": "color",
+  "val": "#262626",
+  "resid": "0x7f06090a",
+  "fileOff": 205226864
+ },
+ {
+  "name": "custom_google_dialog_tips_text_color",
+  "restype": "color",
+  "val": "#b7b7b7",
+  "resid": "0x7f060927",
+  "fileOff": 205227328
+ },
+ {
+  "name": "description_text_color",
+  "restype": "color",
+  "val": "#222222",
+  "resid": "0x7f060934",
+  "fileOff": 205227536
+ },
+ {
+  "name": "dialog_login_delay_remind_bg_dark",
+  "restype": "color",
+  "val": "#0e0e0e",
+  "resid": "0x7f060944",
+  "fileOff": 205227792
+ },
+ {
+  "name": "exciting_video_title_color",
+  "restype": "color",
+  "val": "#222222",
+  "resid": "0x7f0609a5",
+  "fileOff": 205229296
+ },
+ {
+  "name": "luckydog_222222",
+  "restype": "color",
+  "val": "#222222",
+  "resid": "0x7f060a00",
+  "fileOff": 205230752
+ },
+ {
+  "name": "market_feedback_title_color",
+  "restype": "color",
+  "val": "#222222",
+  "resid": "0x7f060a1b",
+  "fileOff": 205231184
+ },
+ {
+  "name": "qr_ssxinzi1",
+  "restype": "color",
+  "val": "#222222",
+  "resid": "0x7f060ac0",
+  "fileOff": 205233824
+ },
+ {
+  "name": "reader_black_theme_bg_light",
+  "restype": "color",
+  "val": "#262626",
+  "resid": "0x7f060acb",
+  "fileOff": 205234000
+ },
+ {
+  "name": "reader_black_theme_bg_v525",
+  "restype": "color",
+  "val": "#0e0e0e",
+  "resid": "0x7f060acd",
+  "fileOff": 205234032
+ },
+ {
+  "name": "reader_global_bg_black",
+  "restype": "color",
+  "val": "#0e0e0e",
+  "resid": "0x7f060b0a",
+  "fileOff": 205235008
+ },
+ {
+  "name": "reader_global_bg_black3",
+  "restype": "color",
+  "val": "#262626",
+  "resid": "0x7f060b0c",
+  "fileOff": 205235040
+ },
+ {
+  "name": "reader_global_card_black",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f060b19",
+  "fileOff": 205235248
+ },
+ {
+  "name": "reader_global_card_black2",
+  "restype": "color",
+  "val": "#262626",
+  "resid": "0x7f060b1a",
+  "fileOff": 205235264
+ },
+ {
+  "name": "reader_global_text_black_v2",
+  "restype": "color",
+  "val": "#b7b7b7",
+  "resid": "0x7f060b7a",
+  "fileOff": 205236800
+ },
+ {
+  "name": "reader_light_bg_black",
+  "restype": "color",
+  "val": "#262626",
+  "resid": "0x7f060bac",
+  "fileOff": 205237600
+ },
+ {
+  "name": "reader_note_tip_background_black",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f060bd1",
+  "fileOff": 205238192
+ },
+ {
+  "name": "short_video_color_222222",
+  "restype": "color",
+  "val": "#222222",
+  "resid": "0x7f060c60",
+  "fileOff": 205240480
+ },
+ {
+  "name": "skin_bg_color_0E0E0E",
+  "restype": "color",
+  "val": "#0e0e0e",
+  "resid": "0x7f060c81",
+  "fileOff": 205241008
+ },
+ {
+  "name": "skin_chapter_rec_series_card_text_color_dark",
+  "restype": "color",
+  "val": "#b7b7b7",
+  "resid": "0x7f060c8b",
+  "fileOff": 205241168
+ },
+ {
+  "name": "skin_color_08000000_2_dark",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f060c9b",
+  "fileOff": 205241424
+ },
+ {
+  "name": "skin_color_F6F6F6_2_dark",
+  "restype": "color",
+  "val": "#222222",
+  "resid": "0x7f060cfc",
+  "fileOff": 205242976
+ },
+ {
+  "name": "skin_color_F6F6F6_dark",
+  "restype": "color",
+  "val": "#0e0e0e",
+  "resid": "0x7f060d00",
+  "fileOff": 205243040
+ },
+ {
+  "name": "skin_color_FAFAFA_dark",
+  "restype": "color",
+  "val": "#222222",
+  "resid": "0x7f060d08",
+  "fileOff": 205243168
+ },
+ {
+  "name": "skin_color_bg_2_FFFFFF_dark",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f060d55",
+  "fileOff": 205244400
+ },
+ {
+  "name": "skin_color_bg_FFFFFF_dark",
+  "restype": "color",
+  "val": "#0e0e0e",
+  "resid": "0x7f060d57",
+  "fileOff": 205244432
+ },
+ {
+  "name": "skin_color_bg_card_ff_dark",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f060d5c",
+  "fileOff": 205244512
+ },
+ {
+  "name": "skin_color_bg_dialog_ff_dark_new_style",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f060d61",
+  "fileOff": 205244592
+ },
+ {
+  "name": "skin_color_bg_dialog_white_dark",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f060d65",
+  "fileOff": 205244656
+ },
+ {
+  "name": "skin_color_bg_f6_dark",
+  "restype": "color",
+  "val": "#0e0e0e",
+  "resid": "0x7f060d67",
+  "fileOff": 205244688
+ },
+ {
+  "name": "skin_color_bg_fa_dark",
+  "restype": "color",
+  "val": "#222222",
+  "resid": "0x7f060d69",
+  "fileOff": 205244720
+ },
+ {
+  "name": "skin_color_bg_ff_dark",
+  "restype": "color",
+  "val": "#0e0e0e",
+  "resid": "0x7f060d6b",
+  "fileOff": 205244752
+ },
+ {
+  "name": "skin_color_bg_immersive_opaque",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f060d6e",
+  "fileOff": 205244800
+ },
+ {
+  "name": "skin_color_bg_staggered_card_dark",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f060d72",
+  "fileOff": 205244864
+ },
+ {
+  "name": "skin_color_confirm_dialog_bg_dark",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f060dad",
+  "fileOff": 205245808
+ },
+ {
+  "name": "skin_color_continue_watch_card_default_bg_dark",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f060db7",
+  "fileOff": 205245968
+ },
+ {
+  "name": "skin_color_crop_F6F6F6_dark",
+  "restype": "color",
+  "val": "#0e0e0e",
+  "resid": "0x7f060db9",
+  "fileOff": 205246000
+ },
+ {
+  "name": "skin_color_decardlize_bg_dark",
+  "restype": "color",
+  "val": "#0e0e0e",
+  "resid": "0x7f060dbb",
+  "fileOff": 205246032
+ },
+ {
+  "name": "skin_color_follow_tab_red_dot_stroke_dark",
+  "restype": "color",
+  "val": "#0e0e0e",
+  "resid": "0x7f060dd9",
+  "fileOff": 205246512
+ },
+ {
+  "name": "skin_color_search_bar_bg_v2_dark",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f060e78",
+  "fileOff": 205249056
+ },
+ {
+  "name": "skin_color_setting_bg_f5f5f5_dark",
+  "restype": "color",
+  "val": "#0e0e0e",
+  "resid": "0x7f060e84",
+  "fileOff": 205249248
+ },
+ {
+  "name": "skin_color_setting_card_ffffff_dark",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f060e88",
+  "fileOff": 205249312
+ },
+ {
+  "name": "skin_color_skeleton_dark",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f060ea8",
+  "fileOff": 205249824
+ },
+ {
+  "name": "skin_color_skeleton_white_dark",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f060eac",
+  "fileOff": 205249888
+ },
+ {
+  "name": "skin_color_white_and_black_dark",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f060ed1",
+  "fileOff": 205250480
+ },
+ {
+  "name": "skin_ec_book_channel_bg_dark",
+  "restype": "color",
+  "val": "#0e0e0e",
+  "resid": "0x7f060ee9",
+  "fileOff": 205250864
+ },
+ {
+  "name": "skin_fqdc_bg_dark",
+  "restype": "color",
+  "val": "#0e0e0e",
+  "resid": "0x7f060f05",
+  "fileOff": 205251312
+ },
+ {
+  "name": "skin_fqhybrid_color_bg_ff_dark",
+  "restype": "color",
+  "val": "#0e0e0e",
+  "resid": "0x7f060f07",
+  "fileOff": 205251344
+ },
+ {
+  "name": "skin_golden_item_text_color_light",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f060f2e",
+  "fileOff": 205251968
+ },
+ {
+  "name": "skin_more_panel_bg_color_bark",
+  "restype": "color",
+  "val": "#222222",
+  "resid": "0x7f060f49",
+  "fileOff": 205252400
+ },
+ {
+  "name": "skin_switch_button_indicator_bg_dark",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f060fa4",
+  "fileOff": 205253856
+ },
+ {
+  "name": "skin_tint_color_1C1C1C",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f060fba",
+  "fileOff": 205254208
+ },
+ {
+  "name": "skin_tint_color_FF0E0E0E",
+  "restype": "color",
+  "val": "#0e0e0e",
+  "resid": "0x7f060fd2",
+  "fileOff": 205254592
+ },
+ {
+  "name": "skin_video_mall_search_btn_bg_dark",
+  "restype": "color",
+  "val": "#1c1c1c",
+  "resid": "0x7f060fe3",
+  "fileOff": 205254864
+ },
+ {
+  "name": "ssxinheihui1",
+  "restype": "color",
+  "val": "#222222",
+  "resid": "0x7f060ffe",
+  "fileOff": 205255296
+ },
+ {
+  "name": "theme_background_black_v525",
+  "restype": "color",
+  "val": "#0e0e0e",
+  "resid": "0x7f06111b",
+  "fileOff": 205259856
+ },
+ {
+  "name": "user_agreement_dialog_title",
+  "restype": "color",
+  "val": "#222222",
+  "resid": "0x7f061168",
+  "fileOff": 205261088
+ },
+ {
+  "name": "video_web_sdk_color_title_text_black",
+  "restype": "color",
+  "val": "#222222",
+  "resid": "0x7f061186",
+  "fileOff": 205261568
+ },
+ {
+  "name": "splash_bg_center",
+  "restype": "color",
+  "val": "#0e0e0e",
+  "resid": "0x7f060ff3",
+  "fileOff": 205282788
+ },
+ {
+  "name": "emui_color_gray_1",
+  "restype": "color",
+  "val": "#262626",
+  "resid": "0x7f060998",
+  "fileOff": 205319916
+ }
+]

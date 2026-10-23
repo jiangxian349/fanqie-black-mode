@@ -1,0 +1,18 @@
+# secrets & keys
+*.jks
+*.keystore
+*.pem
+*.p12
+# device/state dumps & build outputs
+*.apk
+*.db
+*.dex
+*.jar
+*.class
+module_build/classes/
+__pycache__/
+*.pyc
+*.log
+# scratch screenshots
+*.png
+!纯黑对比测试图.png

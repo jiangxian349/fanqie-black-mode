@@ -50,10 +50,6 @@
 ├── patch_arsc_only.py         # 仅替换 arsc 颜色（推荐，改动最小）
 ├── patch_full.py              # arsc + dex 全量颜色替换
 ├── patch_v70932.py            # 7.0.9.32 版本全量颜色替换
-├── find_sig.py                # APK 内签名指纹/常量检索工具
-├── fix_onsite.sh              # 设备端字节级修复脚本模板（dd 就地补丁）
-├── fix_min.sh                 # 最小修改配方脚本
-├── fix_gate.sh / fix_gate2.sh / fix_restore.sh
 ├── remote_install.ps1         # 远程设备分块传输安装
 ├── http_install.ps1           # 远程设备 HTTP 传输安装
 ├── color_offsets.json         # 7.0.9.32 颜色资源名与文件偏移清单
@@ -83,7 +79,7 @@ apksigner sign --ks your.keystore --ks-pass pass:<password> --ks-key-alias <alia
 
 # 3) 保数据安装（base + 原 split 全部提供）
 adb install-multiple -r m17_base_black_signed.apk split_config.*.apk
-# 远程设备：使用 remote_install.ps1（分块传输）或 http_install.ps1，或 fix_onsite.sh 就地字节修复
+# 远程设备：使用 remote_install.ps1（分块传输）或 http_install.ps1
 
 # LSPosed 模块构建
 cd module_build
